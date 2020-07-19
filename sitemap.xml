@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/tags/c%E1%BA%A3i-c%C3%A1ch/</loc>
+    <lastmod>2020-07-19T08:49:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/duy-t%C3%A2n/</loc>
+    <lastmod>2020-07-19T08:49:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/nh%E1%BA%ADt-b%E1%BA%A3n/</loc>
+    <lastmod>2020-07-19T08:49:30+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/</loc>
+    <lastmod>2020-07-19T08:49:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
@@ -18,11 +38,12 @@
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
 </urlset>
