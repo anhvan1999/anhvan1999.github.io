@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VanDA Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on VanDA Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sun, 19 Jul 2020 08:49:30 +0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vì sao nhật bản duy tân thành công?</title>
+      <link>http://example.org/posts/nhat-ban-duy-tan/</link>
+      <pubDate>Sun, 19 Jul 2020 08:49:30 +0700</pubDate>
+      
+      <guid>http://example.org/posts/nhat-ban-duy-tan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
