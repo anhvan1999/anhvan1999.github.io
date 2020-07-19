@@ -3,47 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/tags/c%E1%BA%A3i-c%C3%A1ch/</loc>
+    <loc>https://anhvan1999.github.io/categories/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/duy-t%C3%A2n/</loc>
+    <loc>https://anhvan1999.github.io/tags/c%E1%BA%A3i-c%C3%A1ch/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/nh%E1%BA%ADt-b%E1%BA%A3n/</loc>
+    <loc>https://anhvan1999.github.io/tags/duy-t%C3%A2n/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://anhvan1999.github.io/tags/nh%E1%BA%ADt-b%E1%BA%A3n/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://anhvan1999.github.io/posts/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://anhvan1999.github.io/tags/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/nhat-ban-duy-tan/</loc>
+    <loc>https://anhvan1999.github.io/</loc>
     <lastmod>2020-07-19T08:49:30+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/creating-a-new-theme/</loc>
+    <loc>https://anhvan1999.github.io/posts/nhat-ban-duy-tan/</loc>
+    <lastmod>2020-07-19T08:49:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anhvan1999.github.io/categories/x%C3%A3-h%E1%BB%99i/</loc>
+    <lastmod>2020-07-19T08:49:30+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anhvan1999.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
   </url>
   
 </urlset>

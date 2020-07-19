@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on VanDA Blog</title>
-    <link>http://example.org/categories/</link>
+    <link>https://anhvan1999.github.io/categories/</link>
     <description>Recent content in Categories on VanDA Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-vn</language>
+    <lastBuildDate>Sun, 19 Jul 2020 08:49:30 +0700</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anhvan1999.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Xã hội</title>
+      <link>https://anhvan1999.github.io/categories/x%C3%A3-h%E1%BB%99i/</link>
+      <pubDate>Sun, 19 Jul 2020 08:49:30 +0700</pubDate>
+      
+      <guid>https://anhvan1999.github.io/categories/x%C3%A3-h%E1%BB%99i/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
